@@ -50,19 +50,6 @@ Most of that shows up as refactors, internal tooling, and the unglamorous work o
   <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,go,py,mongodb,mysql,postgres,aws,git,linux&theme=dark" alt="Tools I use" />
 </p>
 
-### GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=agusarya592&show_icons=true&hide_border=true&bg_color=0d1119&title_color=5b9bf0&text_color=e9ecf1&icon_color=4779c4&hide=stars" alt="Agus Arya's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusarya592&layout=compact&hide_border=true&bg_color=0d1119&title_color=5b9bf0&text_color=e9ecf1" alt="Top languages" />
-</p>
-
-### Achievements
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=agusarya592&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
-</p>
-
 ### Contribution Trail
 
 <picture>

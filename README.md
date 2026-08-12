@@ -68,9 +68,9 @@ Building enterprise-scale systems with passion and precision.
 <br />
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-agusarya.vercel.app-4779c4?style=flat&logo=vercel&logoColor=white)](https://agusarya.vercel.app)
-[![Email](https://img.shields.io/badge/-agusarya592%40gmail.com-4779c4?style=flat&logo=gmail&logoColor=white)](mailto:agusarya592@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-4779c4?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/agusarya)
-[![GitHub](https://img.shields.io/badge/-GitHub-4779c4?style=flat&logo=github&logoColor=white)](https://github.com/agusarya592)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4779c4?style=for-the-badge&logo=vercel&logoColor=white)](https://agusarya.vercel.app)
+[![Email](https://img.shields.io/badge/Email-4779c4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agusarya592@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4779c4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/agusarya)
+[![GitHub](https://img.shields.io/badge/GitHub-4779c4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agusarya592)
 
 </div>

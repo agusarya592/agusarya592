@@ -8,7 +8,7 @@
 
 <br />
 
-### Hey, I'm Agus 👋
+### Hey, I'm Agus Arya 👋
 
 I'm a software engineer based in Denpasar, Bali. I work across recruitment-tech platforms - from candidate-facing career sites to internal HRMS tooling - shaping the product, building the system, and shipping the release.
 
